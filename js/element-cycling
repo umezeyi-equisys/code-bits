@@ -54,6 +54,18 @@
                     moveElement(1)
             });
 
+            var elems = document.querySelectorAll('.boxin');
+            for (var i=elems.length; i--;) {
+                elems[i].addEventListener('click', selectElement, false);
+            }
+
+            function selectElement(event) {
+
+                const active = document.getElementsByClassName('active')[0];
+                active.classList.remove('active');
+                this.classList.add('active');
+            }
+
             function moveElement(dir = 1) {
 
                 const box = document.getElementById('box');
