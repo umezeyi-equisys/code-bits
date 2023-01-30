@@ -5,4 +5,4 @@ Avoiding dependencies, these functions, classes or procedures are built as ready
 
 The collection is completely random, with any potentially useful code dropped here.
 
-[!Robot Image](robot.jpg]
+![Robot Image](robot.jpg]
