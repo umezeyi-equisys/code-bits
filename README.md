@@ -1,10 +1,8 @@
 # code-bits
 
-CODE BITS
+Small and contained bits of code, broken into files or modules or ready to use and implement **working code**.
+Avoiding dependencies, these functions, classes or procedures are built as ready to copy into any project as-is and can be adapted or used directly.
 
-Bits of coding, learning, testing.
-Just a collection of random, easy to use, ready to implement working code that can be put into any project.
+The collection is completely random, with any potentially useful code dropped here.
 
-Functionality, styling, etc.
-
-TODO ^ Style this ReadMe
+[!Robot Image](images/robot.jpg]
